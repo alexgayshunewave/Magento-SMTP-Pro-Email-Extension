@@ -1,3 +1,19 @@
+SMTP Pro Extension modified by IE
+The latest release modification is with x.x.x.1 which equivalent to x.x.x SMTP Pro Extension.
+i.e: 2.0.7.1 => 2.0.7
+
+The modification are:
+- Use 'community' pool instead of 'local'
+
+Files modified are:
+- README.md
+- modman
+- composer.json
+- app/etc/modules/Aschroder_SMTPPro.xml
+
+
+See below for SMTP Pro Extension detail
+
 Magento SMTP Pro Extension
 by Ashley Schroder (aschroder.com)
 
